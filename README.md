@@ -14,7 +14,7 @@ Bikeshare
 Readme
 
 ## Credits
-github.com
+<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
 ## Add colors to read me Files
 `#0969DA`
