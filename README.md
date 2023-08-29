@@ -15,3 +15,6 @@ Readme
 
 ## Credits
 github.com
+
+## Add colors to read me Files
+`#0969DA`
